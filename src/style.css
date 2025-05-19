@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+button {
+    position: absolute;
+    z-index: 50;
+    top: 80%;
+    left: 45%;
+    padding: 20px;
+    color: white;
+    background-color: rgb(8, 152, 8);
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
