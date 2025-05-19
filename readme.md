@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/94ac5415-4ca4-4ab6-83e0-22c289a0e6ba)
+
 
 
 # Three.js Journey
